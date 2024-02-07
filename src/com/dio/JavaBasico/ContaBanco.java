@@ -1,7 +1,9 @@
+package com.dio.JavaBasico;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Main {
+public class ContaBanco {
     public static void main(String[] args) {
 
         int numero;
