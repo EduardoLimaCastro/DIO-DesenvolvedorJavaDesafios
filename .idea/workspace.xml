@@ -4,44 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45d28daf-69ce-4c2a-8867-c54e3489df3e" name="Changes" comment="Inicio Parte 2">
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Escopo_E_Estruturas_De_Controle_Em_Java/Desafio_Controle_Fluxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Escopo_E_Estruturas_De_Controle_Em_Java/ParametrosInvalidosException.java" afterDir="false" />
+    <list default="true" id="45d28daf-69ce-4c2a-8867-c54e3489df3e" name="Changes" comment="Projeto Finalizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/JavaBasico/ContaBanco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EduardoLimaCastro"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="0237c84a-425a-4e0a-b337-083e30b0cf28" />
-        <option name="url" value="https://github.com/EduardoLimaCastro/DIO-ContaBanco.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,27 +28,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Processo_Seletivo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Parte-2",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Desafio_Controle_Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dio.Escopo_E_Estruturas_De_Controle_Em_Java.Desafio_Controle_Fluxo" />
-      <module name="ContaBanco" />
+      <module name="DIO-DesenvolvedorJavaDesafios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dio.Escopo_E_Estruturas_De_Controle_Em_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DIO-DesenvolvedorJavaDesafios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DIO-DesenvolvedorJavaDesafios" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,23 +103,7 @@
       <option name="project" value="LOCAL" />
       <updated>1707331451831</updated>
     </task>
-    <task id="LOCAL-00003" summary="Projeto Finalizado 1">
-      <option name="closed" value="true" />
-      <created>1707333503452</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1707333503452</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Inicio Parte 2">
-      <option name="closed" value="true" />
-      <created>1707403771019</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1707403771020</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,8 +120,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Projeto Finalizado" />
-    <MESSAGE value="Projeto Finalizado 1" />
-    <MESSAGE value="Inicio Parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio Parte 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Finalizado" />
   </component>
 </project>
