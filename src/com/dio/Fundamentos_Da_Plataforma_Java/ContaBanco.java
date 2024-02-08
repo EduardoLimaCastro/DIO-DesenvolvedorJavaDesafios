@@ -1,4 +1,4 @@
-package com.dio.JavaBasico;
+package com.dio.Fundamentos_Da_Plataforma_Java;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
