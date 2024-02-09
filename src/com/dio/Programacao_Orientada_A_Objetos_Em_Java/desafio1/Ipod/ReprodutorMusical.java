@@ -1,4 +1,4 @@
-package com.dio.Programacao_Orientada_A_Objetos_Em_Java.Ipod;
+package com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.Ipod;
 
 public class ReprodutorMusical implements Ipod{
 

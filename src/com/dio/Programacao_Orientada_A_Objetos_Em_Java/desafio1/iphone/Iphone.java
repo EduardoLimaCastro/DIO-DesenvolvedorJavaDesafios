@@ -1,8 +1,8 @@
-package com.dio.Programacao_Orientada_A_Objetos_Em_Java.iphone;
+package com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.iphone;
 
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.Ipod.Ipod;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.phone.Phone;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.web.Browser;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.Ipod.Ipod;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.phone.Phone;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.web.Browser;
 
 public class Iphone implements Ipod, Phone, Browser {
 

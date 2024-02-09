@@ -1,12 +1,12 @@
-package com.dio.Programacao_Orientada_A_Objetos_Em_Java.iphone_user;
+package com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.iphone_user;
 
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.Ipod.Ipod;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.Ipod.ReprodutorMusical;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.iphone.Iphone;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.phone.AparelhoTelefonico;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.phone.Phone;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.web.Browser;
-import com.dio.Programacao_Orientada_A_Objetos_Em_Java.web.Navegador;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.Ipod.Ipod;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.Ipod.ReprodutorMusical;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.iphone.Iphone;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.phone.AparelhoTelefonico;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.phone.Phone;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.web.Browser;
+import com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.web.Navegador;
 
 public class Iphone_user {
     public static void main(String[] args) {

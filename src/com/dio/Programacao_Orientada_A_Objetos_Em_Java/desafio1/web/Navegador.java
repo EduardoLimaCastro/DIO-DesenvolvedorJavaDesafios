@@ -1,4 +1,4 @@
-package com.dio.Programacao_Orientada_A_Objetos_Em_Java.web;
+package com.dio.Programacao_Orientada_A_Objetos_Em_Java.desafio1.web;
 
 public class Navegador implements Browser{
 
