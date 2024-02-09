@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45d28daf-69ce-4c2a-8867-c54e3489df3e" name="Changes" comment="Parte 3 - Desafio 1 completado - Orientação a Objetos e UML: Diagramação de Classes do iPhone">
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio2/TestaConta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/Ipod/Ipod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/Ipod/Ipod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/Ipod/ReprodutorMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/Ipod/ReprodutorMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/UML.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/UML.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/iphone/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/iphone/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/iphone_user/Iphone_user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/iphone_user/Iphone_user.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/phone/AparelhoTelefonico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/phone/AparelhoTelefonico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/phone/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/web/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/web/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/web/Navegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/Programacao_Orientada_A_Objetos_Em_Java/desafio1/web/Navegador.java" afterDir="false" />
-    </list>
+    <list default="true" id="45d28daf-69ce-4c2a-8867-c54e3489df3e" name="Changes" comment="Parte 3 - Desafio 2 completado - Orientação a Objetos e Criação de uma dinâmica de contas correntes de um banco" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707425908439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Parte 3 - Desafio 2 completado - Orientação a Objetos e Criação de uma dinâmica de contas correntes de um banco">
+      <option name="closed" value="true" />
+      <created>1707495496864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707495496864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +200,7 @@
     <MESSAGE value="Projeto Finalizado" />
     <MESSAGE value="Parte 3 - Inicio" />
     <MESSAGE value="Parte 3 - Desafio 1 completado - Orientação a Objetos e UML: Diagramação de Classes do iPhone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parte 3 - Desafio 1 completado - Orientação a Objetos e UML: Diagramação de Classes do iPhone" />
+    <MESSAGE value="Parte 3 - Desafio 2 completado - Orientação a Objetos e Criação de uma dinâmica de contas correntes de um banco" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parte 3 - Desafio 2 completado - Orientação a Objetos e Criação de uma dinâmica de contas correntes de um banco" />
   </component>
 </project>
